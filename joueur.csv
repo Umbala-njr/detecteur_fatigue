@@ -1,4 +1,4 @@
-id,nom
-1,Lamine
-2,Aicha
-3,Brahim
+distance_km,sprints,temps_jeu_min,bpm
+10.5,15,70,140
+8.2,8,55,165
+6.0,4,60,175
