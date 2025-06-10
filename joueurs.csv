@@ -1,4 +1,4 @@
-distance_km,sprints,temps_jeu_min,bpm
-10.5,15,70,140
-8.2,8,55,165
-6.0,4,60,175
+nom,distance_km,sprints,temps_jeu_min,bpm
+juliane,10.5,15,70,140
+fita,8.2,8,55,165
+dilan,6.0,4,60,175
